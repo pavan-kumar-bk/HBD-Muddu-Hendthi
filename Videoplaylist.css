@@ -20,7 +20,7 @@ body {
 .main-video-container {
 	flex: 1 1 700px;
 	background-color: #fff;
-	padding: 15px;
+	padding: 0px 10px 10px 10px;
 }
 .main-video {
 	margin-bottom: 7px;
