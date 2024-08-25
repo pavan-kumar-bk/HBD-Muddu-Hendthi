@@ -1,111 +1,111 @@
 const videosList = [
     {
-        video: 'BirthDay.mp4',
-        title: '3D helicopter animation'
+        video: 'B2.mp4',
+        title: '💛ಹುಟ್ಟುಹಬ್ಬದ ಶುಭಾಶಯಗಳು ಮುದ್ದು ಹೆಂಡತಿ💛'
     },
     {
         video: '1.mp4',
-        title: '3D helicopter animation'
+        title: ' #1 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '2.mp4',
-        title: 'emoji falling animation'
+        title: ' #2 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '3.mp4',
-        title: 'house flood animation'
+        title: ' #3 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '4.mp4',
-        title: 'zoombie walking animation'
+        title: ' #4 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '5.mp4',
-        title: '3D town animation'
+        title: ' #5 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '6.mp4',
-        title: 'man chasing carrot animation'
+        title: ' #6 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '7.mp4',
-        title: 'door hinge animation'
+        title: ' #7 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '8.mp4',
-        title: 'poeple walking in town animation'
+        title: ' #8 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '9.mp4',
-        title: 'knight chasing virus animation'
+        title: ' #9 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '10.mp4',
-        title: 'knight chasing virus animation'
+        title: ' #10 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '11.mp4',
-        title: '3D helicopter animation'
+        title: ' #11 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '12.mp4',
-        title: 'emoji falling animation'
+        title: ' #12 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '13.mp4',
-        title: 'house flood animation'
+        title: ' #13 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '14.mp4',
-        title: 'zoombie walking animation'
+        title: ' #14 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '15.mp4',
-        title: '3D town animation'
+        title: ' #15 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '16.mp4',
-        title: 'man chasing carrot animation'
+        title: ' #16 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '17.mp4',
-        title: 'door hinge animation'
+        title: ' #17 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '18.mp4',
-        title: 'poeple walking in town animation'
+        title: ' #18 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '19.mp4',
-        title: 'knight chasing virus animation'
+        title: ' #19 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '20.mp4',
-        title: 'knight chasing virus animation'
+        title: ' #20 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '21.mp4',
-        title: '3D helicopter animation'
+        title: ' #21 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '22.mp4',
-        title: 'emoji falling animation'
+        title: ' #22 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '23.mp4',
-        title: 'house flood animation'
+        title: ' #23 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '24.mp4',
-        title: 'zoombie walking animation'
+        title: ' #24 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '25.mp4',
-        title: '3D town animation'
+        title: ' #25 - Advance Happy birthday muddu hendthi😘'
     },
     {
         video: '26.mp4',
-        title: 'man chasing carrot animation'
+        title: ' #26 - ಜನ್ಮದಿನದ ಶುಭಾಶಯಗಳು, ಮುದ್ದು ಹೆಂಡತಿ💋😘'
     },
     
     ]
